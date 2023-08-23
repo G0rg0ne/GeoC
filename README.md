@@ -1,0 +1,2 @@
+# GeoC
+Land cover classification
