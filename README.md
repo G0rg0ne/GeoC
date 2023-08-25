@@ -1,4 +1,4 @@
-## GeoClassifier
+## GeoC-Segmenter
 ## TODO :SUMMARY
 This project uses "poetry" to manage and install dependencies. If your not familliar with this tool check out the following [documetation](https://python-poetry.org/docs/)
 
