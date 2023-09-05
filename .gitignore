@@ -1,0 +1,5 @@
+data/masks/*
+data/images/*
+data/output/*
+data/patches_512/*
+data/train_val_test/*
